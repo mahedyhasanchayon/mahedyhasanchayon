@@ -1,5 +1,5 @@
-## Hi there 👋, Hi, I’m Mahedy Hasan
-### I’m a Android Develper
+##👋, Hi, I’m Mahedy Hasan
+###I’m a Android Develper
 ![I’m a Android Develper](https://github.com/mahedyhasanchayon/mahedyhasanchayon/blob/main/banner-1-01.png)
 
 Hello ,I am Mahedy hasan And I live In Dhaka, Bangladesh. And Currently I am a student at Daffodil International University .I am interested in programming also designing .Also I have Done Graphic Designing. Now I am started learning about Mobile Application Development also UI/UX designing.
