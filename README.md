@@ -23,3 +23,6 @@ Hello ,I am Mahedy hasan And I live In Dhaka, Bangladesh. And Currently I am a s
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahedyhasanchayon)  
 
 ![Profile views](https://gpvc.arturio.dev/mahedyhasanchayon)  
+
+
+![Snake animation](https://github.com/mahedyhasanchayon/mahedyhasanchayon/blob/output/github-contribution-grid-snake.svg)
